@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A MERN stack developer and a BLOCKCHAIN enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun1801&label=Profile%20views&color=0e75b6&style=flat" alt="tarun1801" /> </p>
-
 - 🔭 I’m currently working on **A research paper on Blockchain Domain**
 
 - 🌱 I’m currently learning **TYPESCRIPT , NEXT JS , BLOCKCHAIN .**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **tarundatwani118@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qNt0k3bOdkYFpxs6ysUU1ClKw13HOnaE/view?usp=sharing](https://drive.google.com/file/d/1qNt0k3bOdkYFpxs6ysUU1ClKw13HOnaE/view?usp=sharing)
+
+- ⚡ Fun fact **Python was NOT named after a snake.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
