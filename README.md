@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A MERN stack developer and a BLOCKCHAIN enthusiast</h3>
 
-- 🔭 I’m currently working on **A research paper on Blockchain Domain**
-
 - 🌱 I’m currently learning **TYPESCRIPT , NEXT JS , BLOCKCHAIN .**
 
 - 👯 I’m looking to collaborate on **Sahyog**
