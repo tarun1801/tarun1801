@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tarundatwani118@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qNt0k3bOdkYFpxs6ysUU1ClKw13HOnaE/view?usp=sharing](https://drive.google.com/file/d/1qNt0k3bOdkYFpxs6ysUU1ClKw13HOnaE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b3PjMXU0cPAUO34vEffWXf8XO7DCcckx/view?usp=sharing)
 
 - ⚡ Fun fact **Python was NOT named after a snake.**
 
