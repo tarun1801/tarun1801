@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A MERN stack developer and a BLOCKCHAIN enthusiast</h3>
 
-- 🌱 I’m currently learning ** Golang , Python , Backend Development, Database Internals .**
+- 🌱 I’m currently learning **Golang , Python , Backend Development, Database Internals**
 
 - 💬 Ask me about **Backend Development .**
 
