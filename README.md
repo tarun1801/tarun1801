@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A MERN stack developer and a BLOCKCHAIN enthusiast</h3>
 
-- 🌱 I’m currently learning **TYPESCRIPT , NEXT JS , BLOCKCHAIN .**
-
-- 👯 I’m looking to collaborate on **Sahyog**
+- 🌱 I’m currently learning ** Golang , Python , Backend Development, Database Internals .**
 
 - 💬 Ask me about **Backend Development .**
 
 - 📫 How to reach me **tarundatwani118@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b3PjMXU0cPAUO34vEffWXf8XO7DCcckx/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/tarun-datwani-a46b13193/)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YBdkiSZnMOuytOSOxlew8gp29uW9162J/view?usp=drive_link)
 
 - ⚡ Fun fact **Python was NOT named after a snake.**
 
